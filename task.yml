@@ -12,3 +12,7 @@
      region : us-east-1
      count : 1
      wait : yes
+  - name : wait for shh
+    pause : minutes = 1
+     
+     
